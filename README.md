@@ -76,7 +76,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  4 | M | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) | [Video](https://uchicago.zoom.us/rec/play/7pYpdeqr-mk3GNfBtASDAqN9W9Treq6s0iUZ_PsMzRnmB3RWZFevYLAXZrR6ESf27shDOt2sgDgv79os) | [PS2](ProblemSets/PS2/PS2.pdf) |
 | May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | [Video](https://uchicago.zoom.us/rec/play/uMV5Iemvqj43TN2csgSDB6UvW9TpfKus1XMf86UNnUm0UHQEY1OhN-cRM7GyoJX_g3ZOU81q3qB8X6EI) |  |
 | May 11 | M | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#monday-may-11-project-consultation-sign-up) |  |  |
-| May 13 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [Join Zoom](https://uchicago.zoom.us/j/92658541295) | [PS3](ProblemSets/PS3/PS3.pdf) |
+| May 13 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [Video](https://uchicago.zoom.us/rec/play/7J0sdrurrDg3T4aStQSDUf56W9TuKa-s1SkYqPUJxRy8UCNXYFakYeFGYeCO-S46k9v529HgDb-Ud63K) | [PS3](ProblemSets/PS3/PS3.pdf) |
 | May 18 | M | Dynamic programming with interpolation |  | Join Zoom |  |
 | May 20 | W | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#wednesday-may-20-project-consultation-sign-up) |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
@@ -91,7 +91,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 * Casadevall, Arturo and Ferric C. Fang, "[Reproducible Science](https://iai.asm.org/content/78/12/4972)," *American Society for Microbiology: Infection and Immunity*, 78:12, pp. 4972-4975 (2010).
 * Christensen, Garret S. and Edward Miguel, "[Transparency, Reproducibility, and the Credibility of Economics Research](https://www.aeaweb.org/articles?id=10.1257/jel.20171350)," *Journal of Economic Literature*, 56:3 pp. 920-980 (Sep. 2018).
-* Evans, Richard W., "[Public Debt, Interest Rates, and Negative Shocks](https://sites.google.com/site/rickecon/Evans2020.pdf?attredirects=0)," *American Economic Review* (forthcoming, May 2020).
+* Evans, Richard W., "[Public Debt, Interest Rates, and Negative Shocks](https://sites.google.com/site/rickecon/Evans2020.pdf?attredirects=0)," *AEA Papers and Proceedings* (forthcoming, May 2020).
 * Ince, Darrel C., Leslie Hatton, and John Graham-Cumming, "[The Case for Open Computer Programs](https://www.nature.com/articles/nature10836)," *Nature*, 482, pp. 485-488 (23 Feb. 2012).
 * Miguel, E., C. Camerer, K. Casey, J. Cohen, K. M. Esterling, A. Gerber, R. Glennerster, D. P. Green, M. Humphreys, G. Imbens, D. Laitin, T. Madon, L. Nelson, B. A. Nosek, M. Petersen, R. Sedlmayr, J. P. Simmons, U. Simonsohn, and M. Van der Laan, "[Promoting Transparency in Social Science Research](http://science.sciencemag.org/content/343/6166/30)," *Science* (3 Jan. 2014).
 * Niemeyer, Kyle, "[*Nature* Editorial: If you want reproducible science, the software needs to be open source](https://arstechnica.com/science/2012/02/science-code-should-be-open-source-according-to-editorial/)," *Ars Technica* (26 Feb. 2012).
