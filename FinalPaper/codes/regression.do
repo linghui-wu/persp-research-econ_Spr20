@@ -16,9 +16,9 @@ twoway (lfit lstm_non_trade_mean year) (scatter lstm_non_trade_mean year) (lfit 
 
 // Baseline
 
-reg lstm_neg shock, r
+reg lstm shock, r
 est store base1
-reg lstm_neg shock fem asian bachelor income, r
+reg lstm shock fem asian bachelor income, r
 est store base2
 vif
 
