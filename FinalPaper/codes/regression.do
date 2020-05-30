@@ -1,7 +1,7 @@
 // Import data
 
 clear
-use "/Users/linghuiwu/uchicago/courseworks/macs30250/persp-research-econ_Spr20/FinalPaper/dataset.dta"
+use "/Users/linghuiwu/uchicago/courseworks/macs30250/persp-research-econ_Spr20/FinalPaper/data/dataset.dta"
 
 
 // Summary statistics
